@@ -1,1 +1,2 @@
 # heartdrawing
+This project uses Python to display and print images of my mom and dad as part of a beginner image handling script. It helped me practice working with multimedia files and build something personal while learning how to open, show, and prepare images for printing.
